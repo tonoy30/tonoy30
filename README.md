@@ -22,7 +22,8 @@
   <img src="https://github.com/github/explore/blob/main/topics/homebrew/homebrew.png" alt="homebrew" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="html" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
-   <img src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/github/explore/blob/main/topics/java/java.png" alt="java" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/windows/windows.png" alt="linux" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" alt="nextjs" width="40" height="40"/>
@@ -47,4 +48,5 @@
   <img src="https://github.com/github/explore/blob/main/topics/json/json.png" alt="json" width="40" height="40"/>
   <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/django/django.png" alt="django" width="40" height="40"/>
+  <img src="https://github.com/github/explore/blob/main/topics/latex/latex.png" alt="latex" width="40" height="40"/>
 </p>
