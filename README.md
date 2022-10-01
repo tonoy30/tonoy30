@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://w3soft.org/wpub/media-pbld/@langs-short-desc-go/go-logo.svg" alt="go" width="40" height="40"/>
+  <img src="https://github.com/github/explore/blob/main/topics/go/go.png" alt="go" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="python" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png" alt="dotnet" width="40" height="40"/>
