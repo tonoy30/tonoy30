@@ -1,4 +1,6 @@
-### Hi there, I'm [Tonoy Akanda](https://www.linkedin.com/in/tonoy-akanda/). 👋
+### Hi there, I'm [Tonoy Akanda](https://www.linkedin.com/in/tonoy-akanda/) And most importantly 👇
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=tonoy30" style="max-width:100%;">
 
@@ -15,11 +17,9 @@
   <img src="https://github.com/github/explore/blob/main/topics/azure/azure.png" alt="azure" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/bash/bash.png" alt="bash" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/css/css.png" alt="css" width="40" height="40"/>
-  <img src="https://github.com/github/explore/blob/main/topics/gin/gin.png" alt="gin" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/git/git.png" alt="git" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/graphql/graphql.png" alt="graphql" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" alt="heroku" width="40" height="40"/>
-  <img src="https://github.com/github/explore/blob/main/topics/homebrew/homebrew.png" alt="homebrew" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/html/html.png" alt="html" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/>
@@ -36,7 +36,6 @@
   <img src="https://github.com/github/explore/blob/main/topics/redis/redis.png" alt="redis" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/sql/sql.png" alt="sql" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/github/explore/blob/main/topics/vercel/vercel.png" alt="vercel" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/webpack/webpack.png" alt="webpack" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/yaml/yaml.png" alt="yaml" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/babel/babel.png" alt="babel" width="40" height="40"/>
@@ -46,7 +45,6 @@
   <img src="https://github.com/github/explore/blob/main/topics/github/github.png" alt="github" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/grpc/grpc.png" alt="gPRC" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/json/json.png" alt="json" width="40" height="40"/>
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/django/django.png" alt="django" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/latex/latex.png" alt="latex" width="40" height="40"/>
 </p>
